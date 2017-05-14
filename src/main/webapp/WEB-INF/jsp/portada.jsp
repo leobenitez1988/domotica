@@ -18,7 +18,7 @@
    <link href="/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
 
     <!-- Custom Theme Style -->
-    <link href="/build/css/custom.min.css" rel="stylesheet">
+    <link href="/basic/css/custom.min.css" rel="stylesheet">
   </head>
 
   <body class="nav-md">
@@ -174,7 +174,7 @@
     <script src="/vendors/Chart.js/dist/Chart.min.js"></script>
 
     <!-- Custom Theme Scripts -->
-    <script src="/build/js/custom.js"></script>
+    <script src="/basic/js/custom.js"></script>
 
   </body>
 </html>
