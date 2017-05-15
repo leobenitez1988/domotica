@@ -2,7 +2,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <!-- Meta, title, CSS, favicons, etc. -->
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,7 +27,7 @@
         <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
-              <a href="index.html" class="site_title"><i class="fa fa-paw"></i> <span>Dom贸tica!</span></a>
+              <a href="index.html" class="site_title"><i class="fa fa-home"></i> <span>Dom髏ica!</span></a>
             </div>
 
             <div class="clearfix"></div>
@@ -46,7 +46,7 @@
                       <li><a href="index3.html">cccc</a></li>
                     </ul>
                   </li>
-                  <li><a><i class="fa fa-bar-chart-o"></i> Gr谩ficas <span class="fa fa-chevron-down"></span></a>
+                  <li><a><i class="fa fa-bar-chart-o"></i> Gr醘icas <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="chartjs.html">aaaa</a></li>
                       <li><a href="chartjs2.html">bbbbb</a></li>
@@ -80,7 +80,7 @@
           <div class="">
             <div class="page-title">
               <div class="title_left">
-                <h3>Informaci贸n meteorol贸gica</h3>
+                <h3>Informaci髇 meteorol骻ica</h3>
               </div>
             </div>
 
@@ -100,7 +100,7 @@
                     <div class="clearfix"></div>
                   </div>
                   <div class="x_content">
-                    <canvas id="lineChart"></canvas>
+                    <canvas id="temperaturaChart"></canvas>
                   </div>
                 </div>
               </div>
@@ -118,7 +118,7 @@
                       <div class="clearfix"></div>
                     </div>
                     <div class="x_content">
-                      <canvas id="lineChart2"></canvas>
+                      <canvas id="humedadChart"></canvas>
                     </div>
                   </div>
                 </div>
@@ -152,7 +152,7 @@
         <!-- footer content -->
         <footer>
           <div class="pull-right">
-            Dom贸tica - Leo Ben铆tez
+            Dom髏ica - Leo Ben韙ez
           </div>
           <div class="clearfix"></div>
         </footer>
